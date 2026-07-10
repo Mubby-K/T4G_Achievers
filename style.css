@@ -109,4 +109,13 @@ body{
     font-size:13px;
     font-weight:bold;
 }
+.brown{
+    background: brown;
+}
+.pink{
+    background: pink;
+}
+.green{
+    background: #17b53f;
+}
 
